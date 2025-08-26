@@ -3,6 +3,9 @@
 Projeto em **R** voltado para **análise de dados**!
 Importe, explore, manipule e visualize informações de vendas de um jeito simples e eficiente.
 
+#Tutoria do R no vscode
+-> "https://code-visualstudio-com.translate.goog/docs/languages/r?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+
 ## ✨ Funcionalidades principais
 
 * 📥 **Importação** de planilhas Excel
