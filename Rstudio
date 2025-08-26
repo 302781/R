@@ -1,0 +1,25 @@
+
+# Instalação e Carregamento dos Pacotes -----------------------------------
+#install.packages("dplyr")
+#install.packages("readxl")
+#install.packages("ggplot2")
+
+library(dplyr)
+library(readxl)
+library(ggplot2)
+
+# Importação e Conhecimento dos Dados -------------------------------------
+vendas_df <- read_excel("Vendas.xlsx")
+
+View(vendas_df)#Visualizar Tabela
+
+head(vendas_df)#6 primeiras linhas
+str(vendas_df)#Como armazenar dados
+
+# Manipulação dos Dados ---------------------------------------------------
+
+
+
+# Visualização dos Dados --------------------------------------------------
+
+
